@@ -3,7 +3,8 @@ import torch
 from torch_geometric.datasets import Actor, Planetoid, WebKB, WikipediaNetwork
 from sklearn.metrics import accuracy_score
 
-from graph_tree_booster import GraphTreeBooster, standardize
+from util import standardize
+from graph_tree_booster import GraphTreeBooster
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
