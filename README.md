@@ -1,5 +1,7 @@
 # GraphTreeBoost: Soft Decision Tree-Based Graph Learning With Spectral Aggregation
 
+[GraphTreeBoost: Soft Decision Tree-Based Graph Learning With Spectral Aggregation](https://doi.org/10.14428/esann/2026.ES2026-111)
+
 ## Dependencies
 
 ```
